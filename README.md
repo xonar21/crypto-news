@@ -7,8 +7,9 @@
 - `research/REPORT_PHASE3.md` — фаза 3: библиотека 48 кейсов внеплановых событий 2021–2026, категории, правило «уже в цене»
 - `research/REPORT_PHASE4.md` — фаза 4: проверка правил на всех ценовых шоках, FOMC в деталях (заявление vs пресс-конференция), межрыночные связи, сезонность
 - `research/REPORT_PHASE5.md` — фаза 5: позиционирование (поток ордеров) и реакция относительно ожидаемого
+- `research/REPORT_FOOTBALL.md` — футбол и ставки: проверка идеи «считать вероятность из параметров и ставить на наивысшую» на 12.7k матчей АПЛ с коэффициентами 24 букмекеров
 - `research/PM_BACKTEST_DESIGN.md` — рынки предсказаний: как честно бэктестить ИИ-прогнозиста, планка на 46k рынков, план проверки
 - `research/REPORT_TRADERS.md` — как торгуют реальные трейдеры: статистика прибыльности, источники преимущества, что есть у человека и чего нет у бота
 - `research/BRAIN_DESIGN.md` — проектный документ: архитектура «трейдерского мозга» по итогам фаз 1–4
-- `research/event_study.py`, `research/phase2.py`, `research/robustness.py`, `research/placebo.py`, `research/case_library.py`, `research/phase4.py`, `research/phase4b.py`, `research/phase5.py`, `research/phase5b.py`, `research/pm_baseline.py` — код
+- `research/event_study.py`, `research/phase2.py`, `research/robustness.py`, `research/placebo.py`, `research/case_library.py`, `research/phase4.py`, `research/phase4b.py`, `research/phase5.py`, `research/phase5b.py`, `research/pm_baseline.py`, `research/football_analysis.py` — код
 - `research/results/` — таблицы и данные по событиям
